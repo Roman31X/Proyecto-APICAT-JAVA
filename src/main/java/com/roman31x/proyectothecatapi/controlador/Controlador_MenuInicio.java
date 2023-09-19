@@ -1,12 +1,9 @@
 package com.roman31x.proyectothecatapi.controlador;
 
 import com.roman31x.proyectothecatapi.vista.*;
-import java.applet.AudioClip;
 import java.awt.event.*;
 import java.io.IOException;
 import java.io.InputStream;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 import javax.sound.sampled.AudioSystem;
 import javax.sound.sampled.Clip;
 import javax.sound.sampled.LineUnavailableException;
@@ -40,13 +37,13 @@ public class Controlador_MenuInicio implements ActionListener{
         if(dato == 1){
             ruta =getClass().getResourceAsStream("/Sonidos/gatoXD.wav");
         }else{
-            ruta =getClass().getResourceAsStream("/Sonidos/EnemigoM.wav");
+            ruta =getClass().getResourceAsStream("/Sonidos/modelo.wav");
         }
         
         Clip clip;
         clip = AudioSystem.getClip();
         try {
-            clip.open(AudioSystem.getAudioInputStream(ruta)) ;
+            clip.open(AudioSystem.getAudioInputStream(ruta));
         } catch (UnsupportedAudioFileException ex) {
             System.out.println(ex);
         } catch (IOException ex) {

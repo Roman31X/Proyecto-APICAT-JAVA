@@ -3,7 +3,7 @@ package com.roman31x.proyectothecatapi.modelo;
 public class FavoritosAPICAT {
     String id;
     String image_id;
-    String apikey = "AGREGAR AQUÍ TU APIKAY";
+    String apikey = "AGREGAR AQUÍ TU APIKEY";
     DatosImagenAPICAT image;
 
     public FavoritosAPICAT() {

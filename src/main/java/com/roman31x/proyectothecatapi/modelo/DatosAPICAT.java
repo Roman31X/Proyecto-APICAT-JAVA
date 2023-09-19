@@ -3,7 +3,7 @@ package com.roman31x.proyectothecatapi.modelo;
 public class DatosAPICAT {
     String id;
     String url;
-    String apiKey = "AGREGAR AQUÍ TU APIKAY";
+    String apiKey = "AGREGAR AQUÍ TU APIKEY";
     String imagen;
 
     public DatosAPICAT() {

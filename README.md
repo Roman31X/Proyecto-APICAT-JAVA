@@ -14,4 +14,4 @@ Este proyecto consiste en una aplicación de escritorio que permite consultar la
 
 + Copia el código del repositorio y pegalo en tu IDE preferido, o bien puedes descargarlo como archivo ZIP
 
-+ 
++ En el archivo 

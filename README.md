@@ -12,7 +12,7 @@ Este proyecto consiste en una aplicación de escritorio que permite consultar la
 
 ## PRIMER PASO:
 
-+ Debes de registrarte para asignarte un __APIKEY__ propio para poder guardar tus gatos favoritos.
++ Debes de registrarte para asignarte un __APIKEY__ propio para poder guardar tus fotos de gatos favoritos.
 
 + Dale aquí :arrow_right: <a href="https://thecatapi.com/signup" target="_blank">__REGISTRAR__</a>
 

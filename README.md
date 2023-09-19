@@ -16,3 +16,6 @@ Este proyecto consiste en una aplicación de escritorio que permite consultar la
 
 + Una vez copiado o descargado y descomprimido el archivo en la capa [__MODELO__](https://github.com/Roman31X/Proyecto-APICAT-JAVA/tree/master/src/main/java/com/roman31x/proyectothecatapi/modelo) del proyecto en los archivos __DatosAPICAT.java__ y __FavoritosAPICAT.java__ debes agregar el __APIKEY__ asignado a tu correo para poder guardar tus fotos favoritas de gatos :heart_eyes: .
 
+## RESULTADO PRUEBA
+
+<img src="https://github.com/Roman31X/Proyecto-APICAT-JAVA/blob/master/src/main/resources/imagenesCAT/ProyectoTheCatAPI.gif">

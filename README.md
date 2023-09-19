@@ -8,7 +8,7 @@ Este proyecto consiste en una aplicación de escritorio que permite consultar la
 + Lenguaje de programacion __JAVA__
 + Importador de dependecias __MAVEN__
 + Formato de informacion API tipo __JSON__
-+ Programa para preuba de APIs __POSTMAN__
++ Programa para prueba de APIs __POSTMAN__
 
 ## PRIMER PASO:
 
